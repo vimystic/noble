@@ -184,6 +184,8 @@ replace (
 	github.com/ChainSafe/go-schnorrkel => github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d
 	github.com/ChainSafe/go-schnorrkel/1 => github.com/ChainSafe/go-schnorrkel v1.0.0
 
+	github.com/cosmos/cosmos-sdk => github.com/reecepbcups/cosmos-sdk v0.45.16-fast.1
+
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
 	// For this nested module, you always want to replace the parent reference with the current worktree.
