@@ -154,6 +154,9 @@ replace (
 	// use cosmos compatible ChainSafe/go-schnorrkel
 	github.com/ChainSafe/go-schnorrkel => github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d
 
+	//Use iavl patched sdk
+	github.com/cosmos/cosmos-sdk => github.com/reecepbcups/cosmos-sdk v0.45.16-fast.1
+
 	// use macos sonoma compatible cosmos/ledger-cosmos-go
 	github.com/cosmos/ledger-cosmos-go => github.com/cosmos/ledger-cosmos-go v0.12.4
 
